@@ -1,5 +1,5 @@
 [package]
-name = "timer"
+name = "tutorial10_timer"
 version = "0.1.0"
 authors = ["Brian Altan"]
 edition = "2024"
